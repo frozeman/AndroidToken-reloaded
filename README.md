@@ -3,7 +3,7 @@ AndroidToken Official Development Repo
 ==================================
 
 
-Premined: 66 800 000 000 ADT, which will be used to make the swap over possible.
+Premined: 66 800 000 000 ADT, which will be used to make the swap over possible. 
 Max coins: 100 billion ADT
 
 Proof of Stake 1.2% anual interest
