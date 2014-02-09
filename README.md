@@ -9,8 +9,8 @@ Max coins: 100 billion ADT
 Proof of Stake 1.2% anual interest
 
 
-Port             77331
+Port             77331 
 RPC Port     	 77332
 
-Testnet Port 	 77333
+Testnet Port 	 77333 
 Testnet RPC Port 77334
