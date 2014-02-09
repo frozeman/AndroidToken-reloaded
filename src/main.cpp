@@ -860,7 +860,7 @@ int64 GetProofOfWorkReward(unsigned int nBits)
 
 
     // number of coins per block
-    int64 nSubsidy;
+    int64 nSubsidy = 0;
 
     // premine all cpins in the first block, for the swap
     if(nHeight == 1)      

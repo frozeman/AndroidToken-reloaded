@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Peercoin (AndroidToken) debug window</string>
+   <string>AndroidToken (AndroidToken) debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>

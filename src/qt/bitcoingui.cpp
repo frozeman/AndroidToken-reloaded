@@ -71,7 +71,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0)
 {
     resize(850, 550);
-    setWindowTitle(tr("Peercoin (AndroidToken) Wallet"));
+    setWindowTitle(tr("AndroidToken (AndroidToken) Wallet"));
 #ifndef Q_WS_MAC
     setWindowIcon(QIcon(":icons/androidtoken"));
 #else
